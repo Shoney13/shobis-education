@@ -9,8 +9,7 @@
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
-  height: calc(100vh - 69px);
-  overflow: hidden;
+  min-height: calc(100vh - 69px);
   isolation: isolate;
   
 }
@@ -24,6 +23,7 @@
 
 }
 .coursesContainer{
+  padding: 0.5rem;
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;

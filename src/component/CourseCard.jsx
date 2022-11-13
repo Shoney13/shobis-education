@@ -3,18 +3,30 @@ import React from "react";
 import { Link } from "react-router-dom";
 import styles from "./CourseCard.module.css";
 const CourseCard = (props) => {
-	const { title, course, isAvailable } = props;
+	const { title, course, isAvailable, subject } = props;
 	return isAvailable ? (
-		<Link to={`/course/${title}`} className={styles.courseCardMain}>
-			<span>{title}</span>
-		</Link>
+		subject ? (
+			<a
+				href={course.link}
+				target="_blank"
+				className={styles.courseCardMain}
+				rel="noreferrer"
+			>
+				{" "}
+				<span className={styles.courseTitle}>{title}</span>
+			</a>
+		) : (
+			<Link to={`${title}`} className={styles.courseCardMain}>
+				<span className={styles.courseTitle}>{title}</span>
+			</Link>
+		)
 	) : (
 		<Tooltip title="coming soon..." arrow>
 			<span>
-        <Button disabled className={styles.courseCardMain}>
-          <span>{title}</span>
-        </Button>
-      </span>
+				<Button disabled className={styles.courseCardMain}>
+					<span className={styles.courseTitle}>{title}</span>
+				</Button>
+			</span>
 		</Tooltip>
 	);
 };

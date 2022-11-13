@@ -9,6 +9,7 @@ import Courses from './component/Courses';
 import NavBar from './component/NavBar';
 import LandingPage from './component/LandingPage';
 import Course from './component/Course';
+import About from './component/About';
 
 const router = createBrowserRouter([
   {
@@ -16,11 +17,19 @@ const router = createBrowserRouter([
     element: <LandingPage />,
   },
   {
+    path: "about",
+    element: <About />,
+  },
+  {
     path: "courses",
     element: <Courses />,
   },
   {
-    path: "course/:course",
+    path: "courses/:course",
+    element: <Course />,
+  },
+  {
+    path: "courses/:course/:subject",
     element: <Course />,
   },
 ]);

@@ -16,3 +16,18 @@
   color: white;
   background-color: #6C63FF;
 }
+
+.courseTitle{
+  display: -webkit-box;
+  -webkit-line-clamp: 5;
+  -webkit-box-orient: vertical;  
+  overflow: hidden;
+}
+
+@media (max-width: 600px){
+  .courseCardMain{
+    width: 150px;
+    height: 150px;
+  font-size: 1rem;
+  }
+}
