@@ -5,22 +5,22 @@ const jsonData = {
 			isAvailable: true,
 			course: [
 				{
-					title: "डेज़ी प्रारूप में किताबें पढ़ने के लिए निर्देश (138\nKB)  ",
+					title: "डेज़ी प्रारूप में किताबें पढ़ने के लिए निर्देश (138KB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/inst.pdf",
 					isAvailable: true,
 				},
 				{
-					title: "बुक 1 डाउनलोड करने के लिए क्लिक करें (213595\nKB)  ",
+					title: "बुक 1 डाउनलोड करने के लिए क्लिक करें (213595KB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/201_ClassX_Hindi_part1.zip",
 					isAvailable: true,
 				},
 				{
-					title: "बुक 2 डाउनलोड करने के लिए क्लिक करें (213595\nKB)  ",
+					title: "बुक 2 डाउनलोड करने के लिए क्लिक करें (213595KB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/201_ClassX_Hindi_part2.zip",
 					isAvailable: true,
 				},
 				{
-					title: "शिक्षार्थी गाइड के लिए क्लिक करें (2647\nKB)  ",
+					title: "शिक्षार्थी गाइड के लिए क्लिक करें (2647KB)",
 					link: "https://www.nios.ac.in/media/documents/201_learnerguide_hindi.pdf",
 					isAvailable: true,
 				},
@@ -147,15 +147,15 @@ const jsonData = {
 			course: [
 				{
 					title:
-						"Instruction for Reading the books in DAISY Format\n(138 KB)  ",
+						"Instruction for Reading the books in DAISY Format(138 KB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/inst.pdf",
 				},
 				{
-					title: "Click to Download Book 1 (134921 KB)  ",
+					title: "Click to Download Book 1 (134921 KB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/202_ClassX_English_part1.zip",
 				},
 				{
-					title: "Click to Download Book 2 (191772 KB)  ",
+					title: "Click to Download Book 2 (191772 KB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/202_ClassX_English_part2.zip",
 				},
 				{
@@ -286,19 +286,19 @@ const jsonData = {
 			course: [
 				{
 					title:
-						"Instruction for Reading the books in DAISY Format\n(138 KB)  ",
+						"Instruction for Reading the books in DAISY Format(138 KB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/inst.pdf",
 				},
 				{
-					title: "Click to Download Book 1 (221492 KB)  ",
+					title: "Click to Download Book 1 (221492 KB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/213_ClassX_Social-Science_English_part1.zip",
 				},
 				{
-					title: "Click to Download Book 2 (182702 KB)  ",
+					title: "Click to Download Book 2 (182702 KB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/213_ClassX_Social-Science_English_part2.zip",
 				},
 				{
-					title: "INTRODUCTION TO SOCIAL SCIENCE (147 KB)  ",
+					title: "INTRODUCTION TO SOCIAL SCIENCE (147 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecSocSciCour/English/Lesson-00.pdf",
 				},
 				{
@@ -310,7 +310,7 @@ const jsonData = {
 					link: "https://www.nios.ac.in/media/documents/SecSocSciCour/English/Lesson-01.pdf",
 				},
 				{
-					title: "MEDIEVAL WORLD  ",
+					title: "MEDIEVAL WORLD",
 					link: "https://www.nios.ac.in/media/documents/SecSocSciCour/English/Lesson-02.pdf",
 				},
 				{
@@ -323,15 +323,15 @@ const jsonData = {
 				},
 				{
 					title:
-						"IMPACT OF BRITISH RULE ON INDIA: ECONOMIC, SOCIAL\nAND CULTURAL (1757-1857) (389 KB)  ",
+						"IMPACT OF BRITISH RULE ON INDIA: ECONOMIC, SOCIALAND CULTURAL (1757-1857) (389 KB)  ",
 					link: "https://www.nios.ac.in/media/documents/SecSocSciCour/English/Lesson-05.pdf",
 				},
 				{
-					title: "RELIGIOUS AND SOCIAL AWKENING IN COLONIAL INDIA\n(398 KB)  ",
+					title: "RELIGIOUS AND SOCIAL AWKENING IN COLONIAL INDIA(398 KB)  ",
 					link: "https://www.nios.ac.in/media/documents/SecSocSciCour/English/Lesson-06.pdf",
 				},
 				{
-					title: "POPULAR RESISTANCE TO THE BRITISH RULE (298 KB)\n ",
+					title: "POPULAR RESISTANCE TO THE BRITISH RULE (298 KB) ",
 					link: "https://www.nios.ac.in/media/documents/SecSocSciCour/English/Lesson-07.pdf",
 				},
 				{
@@ -364,11 +364,11 @@ const jsonData = {
 				},
 				{
 					title:
-						"CONSTITUTIONAL VALUES AND POLITICAL SYSTEM IN\nINDIA(284 KB) \n",
+						"CONSTITUTIONAL VALUES AND POLITICAL SYSTEM ININDIA(284 KB) ",
 					link: "https://www.nios.ac.in/media/documents/SecSocSciCour/English/Lesson-15.pdf",
 				},
 				{
-					title: "FUNDAMENTAL RIGHTS AND FUNDAMENTAL DUTIES(477 KB)\n ",
+					title: "FUNDAMENTAL RIGHTS AND FUNDAMENTAL DUTIES(477 KB) ",
 					link: "https://www.nios.ac.in/media/documents/SecSocSciCour/English/Lesson-16.pdf",
 				},
 				{
@@ -376,7 +376,7 @@ const jsonData = {
 					link: "https://www.nios.ac.in/media/documents/SecSocSciCour/English/Lesson-17.pdf",
 				},
 				{
-					title: "LOCAL GOVERNMENTS AND FIELD ADMINISTRATION(625 KB)\n ",
+					title: "LOCAL GOVERNMENTS AND FIELD ADMINISTRATION(625 KB) ",
 					link: "https://www.nios.ac.in/media/documents/SecSocSciCour/English/Lesson-18.pdf",
 				},
 				{
@@ -392,7 +392,7 @@ const jsonData = {
 					link: "https://www.nios.ac.in/media/documents/SecSocSciCour/English/Lesson-21.pdf",
 				},
 				{
-					title: "PEOPLE'S PARTICIPATION IN THE DEMOCRATIC\nPROCESS(499 KB) \n",
+					title: "PEOPLE'S PARTICIPATION IN THE DEMOCRATICPROCESS(499 KB) ",
 					link: "https://www.nios.ac.in/media/documents/SecSocSciCour/English/Lesson-22.pdf",
 				},
 				{
@@ -405,11 +405,11 @@ const jsonData = {
 				},
 				{
 					title:
-						"SOCIO-ECONOMIC DEVELOPMENT AND EMPOWERMENT OF\nDISADVANTAGED GROUPS(825 KB)  ",
+						"SOCIO-ECONOMIC DEVELOPMENT AND EMPOWERMENT OFDISADVANTAGED GROUPS(825 KB)  ",
 					link: "https://www.nios.ac.in/media/documents/SecSocSciCour/English/Lesson-25.pdf",
 				},
 				{
-					title: "ENVIRONMENTAL DEGRADATION AND DISASTER\nMANAGEMENT(426 KB)  ",
+					title: "ENVIRONMENTAL DEGRADATION AND DISASTERMANAGEMENT(426 KB)  ",
 					link: "https://www.nios.ac.in/media/documents/SecSocSciCour/English/Lesson-26.pdf",
 				},
 				{
@@ -423,11 +423,11 @@ const jsonData = {
 			],
 		},
 		{
-			title: "Indian Culture and Heritage\n(223)",
+			title: "Indian Culture and Heritage(223)",
 			isAvailable: true,
 			course: [
 				{
-					title: "Book in ePUB (3672 KB) ",
+					title: "Book in ePUB (3672 KB)",
 					link: "https://www.nios.ac.in/media/documents/epub/223_ClassX_IC&H_English.epub",
 				},
 				{
@@ -435,105 +435,105 @@ const jsonData = {
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/223_First_page.pdf",
 				},
 				{
-					title: "1. Culture: An Introduction (41.1 MB)  ",
+					title: "1. Culture: An Introduction (41.1 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.01.pdf",
 				},
 				{
-					title: "2. Indian Culture(3.7 MB)  ",
+					title: "2. Indian Culture(3.7 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.02.pdf",
 				},
 				{
-					title: "3. Ancient India(4.1 MB)  ",
+					title: "3. Ancient India(4.1 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.03.pdf",
 				},
 				{
-					title: "4. Medieval India(5.8 MB)  ",
+					title: "4. Medieval India(5.8 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.04.pdf",
 				},
 				{
-					title: "5. Modern India(5.6 MB)  ",
+					title: "5. Modern India(5.6 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.05.pdf",
 				},
 				{
-					title: "6. Indian Languages and Literature-I (5.6\nMB)  ",
+					title: "6. Indian Languages and Literature-I (5.6MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.06.pdf",
 				},
 				{
-					title: "7. Indian Languages and Literature-II (5.6\nMB)  ",
+					title: "7. Indian Languages and Literature-II (5.6MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.07.pdf",
 				},
 				{
-					title: "8. Religion and Philosophy in ancient India(5.9\nMB)  ",
+					title: "8. Religion and Philosophy in ancient India(5.9MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.08.pdf",
 				},
 				{
-					title: "9. Religion and Philosophy in Medieval India(5.7\nMB)  ",
+					title: "9. Religion and Philosophy in Medieval India(5.7MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.09.pdf",
 				},
 				{
-					title: "10. Religious Reform Movements in Modern India(5.7\nMB)  ",
+					title: "10. Religious Reform Movements in Modern India(5.7MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.10.pdf",
 				},
 				{
-					title: "11. Indian Painting (5.4 MB)  ",
+					title: "11. Indian Painting (5.4 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.11.pdf",
 				},
 				{
-					title: "12. Performing Arts: Music, Dance and Drama(5.6\nMB)  ",
+					title: "12. Performing Arts: Music, Dance and Drama(5.6MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.12.pdf",
 				},
 				{
-					title: "13. Indian Architecture(5.6 MB)  ",
+					title: "13. Indian Architecture(5.6 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.13.pdf",
 				},
 				{
-					title: "14. Science and Technology in India(5.6\nMB)  ",
+					title: "14. Science and Technology in India(5.6MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.14.pdf",
 				},
 				{
-					title: "15. Scientists of Ancient India(5.9 MB)  ",
+					title: "15. Scientists of Ancient India(5.9 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.15.pdf",
 				},
 				{
-					title: "16. Science and Scientists of Medieval India(5.9\nMB)  ",
+					title: "16. Science and Scientists of Medieval India(5.9MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.16.pdf",
 				},
 				{
-					title: "17. Scientists of Modern India(5.9 MB)  ",
+					title: "17. Scientists of Modern India(5.9 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.17.pdf",
 				},
 				{
-					title: "18. Education in India(5.9 MB)  ",
+					title: "18. Education in India(5.9 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.18.pdf",
 				},
 				{
-					title: "19. Indian Social Structure (5.3 MB)  ",
+					title: "19. Indian Social Structure (5.3 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.19.pdf",
 				},
 				{
-					title: "20. Socio-Cultural Issues in Contemporary India(5.3\nMB)  ",
+					title: "20. Socio-Cultural Issues in Contemporary India(5.3MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.20.pdf",
 				},
 				{
-					title: "21. Spread of Indian Culture Abroad(5.2\nMB)  ",
+					title: "21. Spread of Indian Culture Abroad(5.2MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/CH.21.pdf",
 				},
 				{
-					title: "Question paper Design(5.2 MB)  ",
+					title: "Question paper Design(5.2 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecICHCour/English/QUESTION%20PAPER%20DESIGN%20AND%20SAMPLR%20PAPER.pdf",
 				},
 			],
 		},
 		{
-			title: "\nPainting (225)",
+			title: "Painting (225)",
 			isAvailable: true,
 			course: [
 				{
-					title: "Curriculum (119\nKB)  ",
+					title: "Curriculum (119KB)",
 					link: "https://www.nios.ac.in/media/documents/sec225new/M-Curriculum%20pg%2093-100.pdf",
 				},
 				{
-					title: "Painting in English\nMedium (15 KB)  ",
+					title: "Painting in EnglishMedium (15 KB)",
 					link: "https://www.nios.ac.in/media/documents/sec225new/225EContent.pdf",
 				},
 				{
@@ -542,17 +542,17 @@ const jsonData = {
 				},
 				{
 					title:
-						"Lesson -1 History and appreciation of Indian art\nfrom 3000 B.C - 600 A.D ",
+						"Lesson -1 History and appreciation of Indian artfrom 3000 B.C - 600 A.D ",
 					link: "https://www.nios.ac.in/media/documents/sec225new/Lesson-1.pdf",
 				},
 				{
 					title:
-						"Lesson - 2 History and appreciation of art from 7th\nCentury A.D - 12 Century A.D ",
+						"Lesson - 2 History and appreciation of art from 7thCentury A.D - 12 Century A.D ",
 					link: "https://www.nios.ac.in/media/documents/sec225new/Lesson-2.pdf",
 				},
 				{
 					title:
-						"Lesson - 3 History and appreciation of art from 13\nCentury A.D - 18 Century A.D ",
+						"Lesson - 3 History and appreciation of art from 13Century A.D - 18 Century A.D ",
 					link: "https://www.nios.ac.in/media/documents/sec225new/Lesson-3.pdf",
 				},
 				{
@@ -561,7 +561,7 @@ const jsonData = {
 				},
 				{
 					title:
-						"Lesson - 5 Renaissance Lesson - 6 Impressionism and\nPost Impressionism\n",
+						"Lesson - 5 Renaissance Lesson - 6 Impressionism andPost Impressionism",
 					link: "https://www.nios.ac.in/media/documents/sec225new/Lesson-5.pdf",
 				},
 				{
@@ -605,7 +605,7 @@ const jsonData = {
 					link: "https://www.nios.ac.in/media/documents/sec225new/Practical_6.pdf",
 				},
 				{
-					title: "Sample\nQuestion Paper   ",
+					title: "SampleQuestion Paper",
 					link: "https://www.nios.ac.in/media/documents/sec225new/PG-101-110.pdf",
 				},
 				{
@@ -635,11 +635,11 @@ const jsonData = {
 			isAvailable: true,
 			course: [
 				{
-					title: "Syllabus (37\nKB)  ",
+					title: "Syllabus (37KB)",
 					link: "https://www.nios.ac.in/media/documents/sec229new/Syllabus229.pdf",
 				},
 				{
-					title: "Data\nEntry Operations in English Medium in PDF (30 KB)  ",
+					title: "DataEntry Operations in English Medium in PDF (30 KB)",
 					link: "https://www.nios.ac.in/media/documents/sec229new/229EContent.pdf",
 				},
 				{
@@ -647,7 +647,7 @@ const jsonData = {
 					link: "https://www.nios.ac.in/media/documents/sec229new/229_first_page.pdf",
 				},
 				{
-					title: "Lesson 1 ",
+					title: "Lesson 1",
 					link: "https://www.nios.ac.in/media/documents/sec229new/Lesson1.pdf",
 				},
 				{
@@ -694,31 +694,31 @@ const jsonData = {
 			course: [
 				{
 					title:
-						"Instruction for Reading the books in DAISY Format\n(138 KB)  ",
+						"Instruction for Reading the books in DAISY Format(138 KB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/inst.pdf",
 				},
 				{
-					title: "Click to Download Book 1 (221492 KB)  ",
+					title: "Click to Download Book 1 (221492 KB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/216_ClassX_Home-Science_English_part1.zip",
 				},
 				{
-					title: "Click to Download Book 2 (182702 KB)  ",
+					title: "Click to Download Book 2 (182702 KB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/216_ClassX_Home-Science_English_part2.zip",
 				},
 				{
-					title: "Click to Download Book 3 (64841 KB)  ",
+					title: "Click to Download Book 3 (64841 KB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/216_ClassX_Home-Science_English_part3.zip",
 				},
 				{
-					title: "Book in ePUB Part 1 (6346 KB) ",
+					title: "Book in ePUB Part 1 (6346 KB)",
 					link: "https://www.nios.ac.in/media/documents/epub/216_ClassX_Home-Science_English_Part1.zip",
 				},
 				{
-					title: "Book in ePUB Part 2 (8512 KB) ",
+					title: "Book in ePUB Part 2 (8512 KB)",
 					link: "https://www.nios.ac.in/media/documents/epub/216_ClassX_Home-Science_English_Part2.zip",
 				},
 				{
-					title: "Practical Manual in ePUB (1673 KB) ",
+					title: "Practical Manual in ePUB (1673 KB)",
 					link: "https://www.nios.ac.in/media/documents/epub/216_ClassX_Home-Science%20Practical_English.zip",
 				},
 				{
@@ -726,107 +726,107 @@ const jsonData = {
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/216_first_page.pdf",
 				},
 				{
-					title: "1. What is Home Science (147 KB)  ",
+					title: "1. What is Home Science (147 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-1.pdf",
 				},
 				{
-					title: "2. Food and its Nutrients (289 KB) ",
+					title: "2. Food and its Nutrients (289 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-2.pdf",
 				},
 				{
-					title: "3. Food Groups (2.89 MB) ",
+					title: "3. Food Groups (2.89 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-3.pdf",
 				},
 				{
-					title: "4. Methods of Cooking Food (252 KB) ",
+					title: "4. Methods of Cooking Food (252 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-4.pdf",
 				},
 				{
-					title: "5. Preservation of Food (215 KB) ",
+					title: "5. Preservation of Food (215 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-5.pdf",
 				},
 				{
-					title: "6. Environment (279 KB)  ",
+					title: "6. Environment (279 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-6.pdf",
 				},
 				{
-					title: "7. Health (354 KB)  ",
+					title: "7. Health (354 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-7.pdf",
 				},
 				{
-					title: "8. Communicable and Lifestyle Diseases (188\nKB) ",
+					title: "8. Communicable and Lifestyle Diseases (188KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-8.pdf",
 				},
 				{
-					title: "9. Care and Maintenance of Fabric (737\nKB)  ",
+					title: "9. Care and Maintenance of Fabric (737KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-9.pdf",
 				},
 				{
-					title: "10. Fibre to Fabric (399 KB)  ",
+					title: "10. Fibre to Fabric (399 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-10.pdf",
 				},
 				{
-					title: "11. Fabric Finishes (251 KB)  ",
+					title: "11. Fabric Finishes (251 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-11.pdf",
 				},
 				{
-					title: "Curriculum (30 KB)  ",
+					title: "Curriculum (30 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20Curriculum.pdf",
 				},
 				{
-					title: "12. Housing (617 KB)  ",
+					title: "12. Housing (617 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-12.pdf",
 				},
 				{
-					title: "13. Safety in Home (186 KB)  ",
+					title: "13. Safety in Home (186 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-13.pdf",
 				},
 				{
-					title: "14. Introduction to Resources (270 KB)  ",
+					title: "14. Introduction to Resources (270 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-14.pdf",
 				},
 				{
-					title: "15. Managing Time and Energy (148 KB)  ",
+					title: "15. Managing Time and Energy (148 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-15.pdf",
 				},
 				{
-					title: "16. Managing Income (208 KB) ",
+					title: "16. Managing Income (208 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-16.pdf",
 				},
 				{
-					title: "17. Life Begins (166 KB) ",
+					title: "17. Life Begins (166 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-17.pdf",
 				},
 				{
-					title: "18. Concept of Development (284 KB) ",
+					title: "18. Concept of Development (284 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-18.pdf",
 				},
 				{
-					title: "19. My Family and I (311 KB) ",
+					title: "19. My Family and I (311 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-19.pdf",
 				},
 				{
-					title: "20. Adolescence: Charms and Challenges (418\nKB) ",
+					title: "20. Adolescence: Charms and Challenges (418KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-20.pdf",
 				},
 				{
-					title: "21. Ethics in Daily Life (185 KB) ",
+					title: "21. Ethics in Daily Life (185 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-21.pdf",
 				},
 				{
-					title: "22. Consumer! Beware, Be Aware (6.29 MB) ",
+					title: "22. Consumer! Beware, Be Aware (6.29 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20(Eng)%20Ch-22.pdf",
 				},
 				{
-					title: "Question Paper Design (26 KB)  ",
+					title: "Question Paper Design (26 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20Sample%20QP%20and%20Marking%20Scheme.pdf",
 				},
 				{
-					title: "Sample Question Paper (61 KB)  ",
+					title: "Sample Question Paper (61 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20Question%20Paper.pdf",
 				},
 				{
-					title: "Practical Manual (68 KB)  ",
+					title: "Practical Manual (68 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecHmscicour/english/Home%20Science%20Practical%20Manual%20prepage.pdf",
 				},
 			],
@@ -837,19 +837,19 @@ const jsonData = {
 			course: [
 				{
 					title:
-						"Instruction for Reading the books in DAISY Format\n(138 KB)  ",
+						"Instruction for Reading the books in DAISY Format(138 KB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/inst.pdf",
 				},
 				{
-					title: "Click to Download Book 1 (251 MB)  ",
+					title: "Click to Download Book 1 (251 MB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/211_ClassX_Math_English_part1.zip",
 				},
 				{
-					title: "Click to Download Book 2 (160 MB)  ",
+					title: "Click to Download Book 2 (160 MB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/211_ClassX_Math_English_part2.zip",
 				},
 				{
-					title: "Click to Download Practical Manual (30\nMB)  ",
+					title: "Click to Download Practical Manual (30MB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/211_ClassX_Math_English_Practical.zip",
 				},
 				{
@@ -857,119 +857,119 @@ const jsonData = {
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/211_first_page.pdf",
 				},
 				{
-					title: "Chapter 1. Number Systems (2 MB)  ",
+					title: "Chapter 1. Number Systems (2 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-1.pdf",
 				},
 				{
-					title: "Chapter 2. Exponents and Radicals (2.5\nMB)  ",
+					title: "Chapter 2. Exponents and Radicals (2.5MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-2.pdf",
 				},
 				{
-					title: "Chapter 3. Algebraic Expressions and Polynomials\n(2.5 MB)  ",
+					title: "Chapter 3. Algebraic Expressions and Polynomials(2.5 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-3.pdf",
 				},
 				{
-					title: "Chapter 4. Special Products and Factorization (2.5\nMB)  ",
+					title: "Chapter 4. Special Products and Factorization (2.5MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-4.pdf",
 				},
 				{
-					title: "Chapter 5. Linear Equations (2.5 MB)  ",
+					title: "Chapter 5. Linear Equations (2.5 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-5.pdf",
 				},
 				{
-					title: "Chapter 6. Quadratic Equations (2.5 MB)  ",
+					title: "Chapter 6. Quadratic Equations (2.5 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-6.pdf",
 				},
 				{
-					title: "Chapter 7. Arithmetic Progressions (2.5\nMB)  ",
+					title: "Chapter 7. Arithmetic Progressions (2.5MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-7.pdf",
 				},
 				{
-					title: "Chapter 8. Percentage and its Applications (2.5\nMB)  ",
+					title: "Chapter 8. Percentage and its Applications (2.5MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-8.pdf",
 				},
 				{
-					title: "Chapter 9.\nInstalment Buying (3 MB)  ",
+					title: "Chapter 9.Instalment Buying (3 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-9.pdf",
 				},
 				{
-					title: "Chapter 10. Lines and Angles (17 MB)  ",
+					title: "Chapter 10. Lines and Angles (17 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-10.pdf",
 				},
 				{
-					title: "Chapter 11. Congruence of Triangles (17\nMB)  ",
+					title: "Chapter 11. Congruence of Triangles (17MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-11.pdf",
 				},
 				{
-					title: "Chapter 12. Concurrent Lines (17 MB)  ",
+					title: "Chapter 12. Concurrent Lines (17 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-12.pdf",
 				},
 				{
-					title: "Chapter 13. Quadrilaterals (17 MB)  ",
+					title: "Chapter 13. Quadrilaterals (17 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-13.pdf",
 				},
 				{
-					title: "Chapter 14. Similarity of Triangles (17\nMB)  ",
+					title: "Chapter 14. Similarity of Triangles (17MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-14.pdf",
 				},
 				{
-					title: "Chapter 15. Circles (17 MB)  ",
+					title: "Chapter 15. Circles (17 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-15.pdf",
 				},
 				{
 					title:
-						"Chapter 16. Angles in a Circle and Cyclic\nQuadrilateral (17 MB)  ",
+						"Chapter 16. Angles in a Circle and CyclicQuadrilateral (17 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-16.pdf",
 				},
 				{
 					title:
-						"Chapter 17. Secants, Tangents and their Properties\n(17 MB)  ",
+						"Chapter 17. Secants, Tangents and their Properties(17 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-17.pdf",
 				},
 				{
-					title: "Chapter 18. Constructions (17 MB)  ",
+					title: "Chapter 18. Constructions (17 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-18.pdf",
 				},
 				{
-					title: "Chapter 19.\nCo-ordinate Geometry (17 MB)  ",
+					title: "Chapter 19.Co-ordinate Geometry (17 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-19.pdf",
 				},
 				{
-					title: "Chapter 20.\nPerimeters and Area of Plane Figures (17 MB)  ",
+					title: "Chapter 20.Perimeters and Area of Plane Figures (17 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-20.pdf",
 				},
 				{
 					title:
-						"Chapter 21. Surface Area and Volume of Solid\nFigures (17 MB)  ",
+						"Chapter 21. Surface Area and Volume of SolidFigures (17 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-21.pdf",
 				},
 				{
-					title: "Chapter 22. Introduction to Trigonometry (17\nMB)  ",
+					title: "Chapter 22. Introduction to Trigonometry (17MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-22.pdf",
 				},
 				{
 					title:
-						"Chapter 23.\nTrigonometric Ratios of Some Special Angles (17 MB)  ",
+						"Chapter 23.Trigonometric Ratios of Some Special Angles (17 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-23.pdf",
 				},
 				{
-					title: "Chapter 24.\nData and Their Representation (17 MB)  ",
+					title: "Chapter 24.Data and Their Representation (17 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-24.pdf",
 				},
 				{
-					title: "Chapter 25. Measures of Central Tendency (17\nMB)  ",
+					title: "Chapter 25. Measures of Central Tendency (17MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-25.pdf",
 				},
 				{
-					title: "Chapter 26. Introduction to Probability (17\nMB)  ",
+					title: "Chapter 26. Introduction to Probability (17MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Chapter-26.pdf",
 				},
 				{
-					title: "Lab Manual (1370 KB)  ",
+					title: "Lab Manual (1370 KB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Lab_Manual.pdf",
 				},
 				{
-					title: "Sample Question\nPaper (17 MB)  ",
+					title: "Sample QuestionPaper (17 MB)",
 					link: "https://www.nios.ac.in/media/documents/SecMathcour/Eng/Question_Paper_Design.pdf",
 				},
 			],
@@ -980,23 +980,23 @@ const jsonData = {
 			course: [
 				{
 					title:
-						"Instruction for Reading the books in DAISY Format\n(138 KB)  ",
+						"Instruction for Reading the books in DAISY Format(138 KB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/inst.pdf",
 				},
 				{
-					title: "Click to Download Book 1 (244 MB)  ",
+					title: "Click to Download Book 1 (244 MB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/212_ClassX_Science_English_part1.zip",
 				},
 				{
-					title: "Click to Download Book 2 (190 MB)  ",
+					title: "Click to Download Book 2 (190 MB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/212_ClassX_Science_English_part2.zip",
 				},
 				{
-					title: "Click to Download Book 3 (49 MB)  ",
+					title: "Click to Download Book 3 (49 MB)",
 					link: "https://www.nios.ac.in/media/documents/DAISYSECENG/212_ClassX_Science_English_part3.zip",
 				},
 				{
-					title: "Tutor Mark Assignment (TMA)",
+					title: "Tutor Mark Assignment(TMA)",
 					link: "https://www.nios.ac.in/student-information-section/tutor-mark-assignment-status.aspx",
 				},
 				{
@@ -1008,7 +1008,7 @@ const jsonData = {
 					link: "https://www.nios.ac.in/media/documents/secscicour/English/212_first_page.pdf",
 				},
 				{
-					title: "1. Measurement in Science and Technology (41.1 MB)\n ",
+					title: "1. Measurement in Science and Technology (41.1 MB) ",
 					link: "https://www.nios.ac.in/media/documents/secscicour/English/Chapter-1.pdf",
 				},
 				{
@@ -1028,7 +1028,7 @@ const jsonData = {
 					link: "https://www.nios.ac.in/media/documents/secscicour/English/Chapter-5.pdf",
 				},
 				{
-					title: "6. Periodic Classification of Elements (41.1 MB)\n ",
+					title: "6. Periodic Classification of Elements (41.1 MB) ",
 					link: "https://www.nios.ac.in/media/documents/secscicour/English/Chapter-6.pdf",
 				},
 				{
@@ -1072,7 +1072,7 @@ const jsonData = {
 					link: "https://www.nios.ac.in/media/documents/secscicour/English/Chapter-16.pdf",
 				},
 				{
-					title: "17. Magnetic Effect of Electric Current (41.1 MB)\n ",
+					title: "17. Magnetic Effect of Electric Current (41.1 MB) ",
 					link: "https://www.nios.ac.in/media/documents/secscicour/English/Chapter-17.pdf",
 				},
 				{
@@ -1084,7 +1084,7 @@ const jsonData = {
 					link: "https://www.nios.ac.in/media/documents/secscicour/English/Chapter-18.pdf",
 				},
 				{
-					title: "19. Classification of Living Organisms (37.3 MB)\n ",
+					title: "19. Classification of Living Organisms (37.3 MB) ",
 					link: "https://www.nios.ac.in/media/documents/secscicour/English/Chapter-19.pdf",
 				},
 				{
@@ -1092,21 +1092,21 @@ const jsonData = {
 					link: "https://www.nios.ac.in/media/documents/secscicour/English/Chapter-20.pdf",
 				},
 				{
-					title: "21. Building Blocks of Life - Cell and Tissues\n(37.3 MB)  ",
+					title: "21. Building Blocks of Life - Cell and Tissues(37.3 MB)  ",
 					link: "https://www.nios.ac.in/media/documents/secscicour/English/Chapter-21.pdf",
 				},
 				{
 					title:
-						"22. Life Processes - 1 : Nutrition, Transportation,\nRespiration and Excretion (37.3 MB)  ",
+						"22. Life Processes - 1 : Nutrition, Transportation,Respiration and Excretion (37.3 MB)  ",
 					link: "https://www.nios.ac.in/media/documents/secscicour/English/Chapter-22.pdf",
 				},
 				{
 					title:
-						"23. Life Processes - 2 : Control and Coordination\n(37.3 MB)  ",
+						"23. Life Processes - 2 : Control and Coordination(37.3 MB)  ",
 					link: "https://www.nios.ac.in/media/documents/secscicour/English/Chapter-23.pdf",
 				},
 				{
-					title: "24. Life Processes - 3 : Reproduction (37.3 MB)\n ",
+					title: "24. Life Processes - 3 : Reproduction (37.3 MB) ",
 					link: "https://www.nios.ac.in/media/documents/secscicour/English/Chapter-24.pdf",
 				},
 				{
@@ -1180,11 +1180,11 @@ const jsonData = {
 			isAvailable: false,
 		},
 		{
-			title: "Hindustani Music\n(242)",
+			title: "Hindustani Music(242)",
 			isAvailable: false,
 		},
 		{
-			title: "Carnatic Music\n(243)",
+			title: "Carnatic Music(243)",
 			isAvailable: false,
 		},
 		{
@@ -1322,7 +1322,7 @@ const jsonData = {
         "isAvailable": false
     },
     {
-        "title": "Environmental Science  (333)",
+        "title": "Environmental Science(333)",
         "isAvailable": false
     },
     {
@@ -1354,15 +1354,15 @@ const jsonData = {
         "isAvailable": false
     },
     {
-        "title": "\nVeda Adhyayan (345)",
+        "title": "Veda Adhyayan (345)",
         "isAvailable": false
     },
     {
-        "title": "\nSanskrit Vyakarana (346)",
+        "title": "Sanskrit Vyakarana (346)",
         "isAvailable": false
     },
     {
-        "title": "\nBharatiya Darshan (347)",
+        "title": "Bharatiya Darshan (347)",
         "isAvailable": false
     },
     {
@@ -1382,11 +1382,11 @@ const jsonData = {
         "isAvailable": false
     },
     {
-        "title": "Physical Education and Yog\n(373)",
+        "title": "Physical Education and Yog(373)",
         "isAvailable": false
     },
     {
-        "title": "Early Childhood Care And Education\n(376)",
+        "title": "Early Childhood Care And Education(376)",
         "isAvailable": false
     }
 ]
