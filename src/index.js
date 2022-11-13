@@ -13,30 +13,29 @@ import About from './component/About';
 
 const router = createBrowserRouter([
   {
-    path: "/",
-    element: <LandingPage />,
-  },
-  {
     path: "/about",
-    element: <About />,
-  },
-  {
-    path: "/courses",
-    element: <Courses />,
-  },
-  {
-    path: "/courses/:course",
-    element: <Course />,
+    element: <><NavBar /><About /></>,
   },
   {
     path: "courses/:course/:subject",
-    element: <Course />,
+    element: <><NavBar /><Course /></>,
+  },
+  {
+    path: "/courses/:course",
+    element: <><NavBar /><Course /></>,
+  },
+  {
+    path: "/courses",
+    element: <><NavBar /><Courses /></>,
+  },
+  {
+    path: "/",
+    element: <><NavBar /><LandingPage /></>,
   },
 ]);
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <NavBar />
     <RouterProvider router={router} />
   </React.StrictMode>
 );
