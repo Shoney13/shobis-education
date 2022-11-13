@@ -1,0 +1,32 @@
+.main{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  background-image: url(../assets/undraw_graduation_re_gthn.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: calc(100vh - 69px);
+  overflow: hidden;
+  isolation: isolate;
+  
+}
+.main::after{
+  content: '';
+  inset: 0;
+  z-index: -1;
+  position: absolute;
+  background: white;
+  opacity: 0.85;
+
+}
+.coursesContainer{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+}

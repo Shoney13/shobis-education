@@ -1,0 +1,18 @@
+.courseCardMain{
+  padding: 1rem;
+  text-align: center;
+  box-shadow: #6C63FF 0px 0px 0px 1px;
+  border-radius: 10px;
+  transition: all 0.2s ease;
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  background-color: #6b63ff25;
+}
+.courseCardMain:hover{
+  color: white;
+  background-color: #6C63FF;
+}

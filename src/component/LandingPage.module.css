@@ -1,0 +1,16 @@
+.main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading{
+  text-align: center;
+  margin: 1rem;
+}
+
+.Logo{
+  margin:  1rem auto;
+  max-width: 100%;
+
+}
